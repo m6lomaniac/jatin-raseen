@@ -1293,7 +1293,7 @@
   border-radius: 0.1875rem;
   padding: 11px 22px;
   cursor: pointer;
-  background-color: #888;
+  background-color: #99FA70;
   color: #FFFFFF;
 }
 
@@ -1319,7 +1319,7 @@
 .show>.navbar .navbar-nav>a.btn.dropdown-toggle,
 .show>.navbar .navbar-nav>a.btn.dropdown-toggle:focus,
 .show>.navbar .navbar-nav>a.btn.dropdown-toggle:hover {
-  background-color: #979797;
+  background-color: #C4FA70;
   color: #FFFFFF;
   box-shadow: none;
 }
@@ -1411,7 +1411,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 .navbar .navbar-nav>a.btn.btn-link:focus,
 .navbar .navbar-nav>a.btn.btn-link:active {
   background-color: transparent;
-  color: #979797;
+  color: #C4FA70;
   text-decoration: none;
   box-shadow: none;
 }
